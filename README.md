@@ -1,2 +1,1 @@
-# gnomegarden
-Homepage and React playground
+React playground
