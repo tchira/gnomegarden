@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "font-awesome":"4.7.0"
+    "font-awesome": "4.7.0",
+    "mapbox-gl": "^0.39.1",
+    "turf":"^3.0.14"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"
