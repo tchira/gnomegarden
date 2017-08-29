@@ -15,7 +15,7 @@ class SocialButton extends Component {
 
     render() {
         return <div
-            className={`fa ${this.props.icon} large-font social-item`}
+            className={`fa ${this.props.icon} hvr-grow large-font social-item`}
             onClick={this.handleClick.bind(this)}>
         </div>
     }
